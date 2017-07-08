@@ -1,0 +1,60 @@
+@media screen and (max-width:768px){
+.service {
+  margin-bottom: 30px;
+}
+
+
+}
+@media screen and (max-width:480px){
+	
+.banner h2 { font-size: 50px;}
+.banner p {font-size: 25px;}
+.button{font-size:15px;}
+.footertext p {font-size: 12px;}
+		
+}
+@media screen and (max-width:320px){
+.banner h2 {font-size: 35px;}	
+.banner p {
+  font-size: 18px;
+}
+.mybutton {
+   font-size: 18px;
+  width: 150px;
+}
+.servicesection {
+ 
+  padding: 30px 0;
+}
+.button {
+  font-size: 9px;
+}
+.button-group .button {
+  border-radius: 4px;
+   margin-right: 4px;
+}
+.footertext h2 {
+
+  font-size: 27px;
+ 
+}
+.footertext h4 {
+
+  font-size: 17px;
+
+}
+.footertext p {
+  font-size: 12px;
+}
+.social i {
+ 
+  font-size: 25px;
+}
+.wi,.fb,.tw,.ch,.ph {
+ 
+  height: 40px;
+  padding-top: 10px;
+  width: 40px;
+}
+	
+}
